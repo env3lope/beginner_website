@@ -1,1 +1,3 @@
-# my_card
+# Beginner website
+
+The most basic free website that a total beginner can create!
